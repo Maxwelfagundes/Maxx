@@ -1,4 +1,4 @@
-# Maxx
+# Maxwel
 
 Olá sou o Maxwel Fagundes, sou um programador Front End, atualmente estou estudando diariamente, fazendo bastante projetos com:
 
